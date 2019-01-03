@@ -1,0 +1,15 @@
+.bg{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.clockTime{
+  font-size: 15vw;
+  text-align: center;
+}
+.hexaCode{
+  font-size: 3vw;
+  text-align: center;
+}
